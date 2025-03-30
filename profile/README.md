@@ -22,7 +22,7 @@ Organisasi ini terdiri dari tim pengembang berbakat yang berkontribusi dalam pem
 
 ## 📂 Struktur Repositori
 ```
-Fishing-Frenzy/
+fishing_frenzy/
 │── assets/          # File gambar, suara, dan sumber daya lainnya
 │── src/             # Kode sumber utama game
 │── docs/            # Dokumentasi proyek
@@ -31,15 +31,15 @@ Fishing-Frenzy/
 ```
 
 ## 🛠️ Teknologi yang Digunakan
-- **Game Engine**: Unity / Unreal Engine (Tentukan yang digunakan)
-- **Bahasa Pemrograman**: C# / JavaScript
+- **Game Engine**: Unity
+- **Bahasa Pemrograman**: C#
 - **Version Control**: Git & GitHub
 
 ## 📜 Cara Berkontribusi
 1. **Fork** repositori ini.
 2. **Clone** ke perangkat lokal:
    ```sh
-   git clone https://github.com/your-org-name/Fishing-Frenzy.git
+   git clone https://github.com/WDG-Game-Dev/Fishing-Frenzy.git
    ```
 3. Buat **branch** baru untuk fitur atau perbaikan yang ingin ditambahkan:
    ```sh
